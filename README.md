@@ -1,8 +1,8 @@
 # Roadmap
-- [] Draft a proposal
-- [] Get feeback, compile a list of current neuroscientists who are julia users.
-- [] Build the wesite (have a "card" like format for all current users to show their top neuro packages)?
-- [] Add org to julia lists.
+- [ ] Draft a proposal
+- [ ] Get feeback, compile a list of current neuroscientists who are julia users.
+- [ ] Build the wesite (have a "card" like format for all current users to show their top neuro packages)?
+- [ ] Add org to julia lists.
 
 # Proposal
 **Building a community of both julia users & developers around the field of neuroscience.**
