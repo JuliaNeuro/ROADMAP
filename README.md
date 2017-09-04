@@ -1,9 +1,3 @@
-# Roadmap
-- [ ] Draft a proposal
-- [ ] Get feeback, compile a list of current neuroscientists who are julia users.
-- [ ] Build the wesite (have a "card" like format for all current users to show their top neuro packages)?
-- [ ] Add org to julia lists.
-
 # Proposal
 **Building a community of both julia users & developers around the field of neuroscience.**
 Most of themaths and analytical techniques that are used in neuroscience are covered under other Julia umbrellas (e.g. Digital Signal Processing, Image Analysis, ML etc.). Thus the aim of this group would be to serve as a hub to show/and develop these in neuro-specific use cases. This might be especially important for attracting new neuroscientists to Julia who might otherwise consider themselves uncatered for. 
@@ -26,3 +20,11 @@ Positive or negative comments? Get in touch great to hear from a range of both c
 twitter: @alex__morley
 github: @alexmorley
 email: alexander.morley@univ.ox.ac.uk
+
+
+# Roadmap
+- [X] Draft a proposal
+- [X] Get feeback, compile a list of current neuroscientists who are julia users. - see https://github.com/JuliaNeuro/julianeuro.github.io/issues/1
+- [X] Build the wesite (have a "card" like format for all current users to show their top neuro packages)?
+- [ ] Meeting at SfN
+- [ ] Add org to julia lists.
