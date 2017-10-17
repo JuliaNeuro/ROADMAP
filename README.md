@@ -1,6 +1,6 @@
 # Proposal
 **Building a community of both julia users & developers around the field of neuroscience.**
-Most of themaths and analytical techniques that are used in neuroscience are covered under other Julia umbrellas (e.g. Digital Signal Processing, Image Analysis, ML etc.). Thus the aim of this group would be to serve as a hub to show/and develop these in neuro-specific use cases. This might be especially important for attracting new neuroscientists to Julia who might otherwise consider themselves uncatered for. 
+Most of the mathematical and analytical techniques that are used in neuroscience are covered under other Julia umbrellas (e.g. Digital Signal Processing, Image Analysis, ML etc.). Thus the aim of this group would be to serve as a hub to show/and develop these in neuro-specific use cases. This might be especially important for attracting new neuroscientists to Julia who might otherwise consider themselves uncatered for. 
 
 **Julia Neuro Could (potentially) Provide:**
   - A channel/tag on the julia discourse group for neuroscience related questions
